@@ -1,2 +1,3 @@
-# PersonalProjects
-This is  a personal repo of Aliya Mutiyara
+# Personal Projects of Aliya Mutiyara
+
+This is  a repo for my personal projects. 
