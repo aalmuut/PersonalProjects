@@ -17,8 +17,6 @@ This repository holds all of my personal projects that I've done.
 3. [Deep Learning Projects]
 4. [Natural Processing Language Projects] 
 
-Each category has their own variety of projects and should be accompanied by some form of documentation.
-
 ## Contact Me
 
 | Contact Method |  |
