@@ -4,4 +4,4 @@ I used this data from [source](https://archive.ics.uci.edu/ml/datasets/Mammograp
 
 ## Final Result
 
-Decisiion tree is lowest model for predicting mammogram benign or malignant.
+Decission tree is lowest model for predicting mammogram benign or malignant.
