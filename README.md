@@ -17,6 +17,7 @@ This repository holds all of my personal projects that I've done.
 3. [Deep Learning Projects](https://github.com/aalmuut/PersonalProjects/tree/master/Deep%20Learning%20Projects/Mammogram)
 4. [Natural Processing Language Projects](https://github.com/aalmuut/PersonalProjects/tree/master/Natural%20Processing%20Language%20Projects)
 5. [Data Visualization Mini Project](https://github.com/aalmuut/PersonalProjects/tree/master/Data%20Visualization%20-%20Mini)
+6. [Data Analysis](https://github.com/aalmuut/PersonalProjects/tree/master/Data%20Analysis)
 
 ## Contact Me
 
