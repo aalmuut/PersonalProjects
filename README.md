@@ -23,5 +23,5 @@ This repository holds all of my personal projects that I've done.
 
 | Contact Method |  |
 | --- | --- |
-| Professional Email | mutiyara@pm.me |
+| Professional Email | mumutana@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/aliyamu/ |
